@@ -1,0 +1,11 @@
+body {
+	background-color:black;
+}
+
+.about-heading {
+	font-family: "Trattatello";
+	color:white;
+	margin-left: 100px;
+	margin-top: 25px;
+	font-size: 100px;
+}
