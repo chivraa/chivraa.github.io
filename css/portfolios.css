@@ -6,3 +6,15 @@ body {
 	color:white;
 	font-family:"ColonnaMT";
 }
+
+.btn {
+	position:relative;
+	top:15vh;
+	margin-top: 40px;
+	text-align: center;
+}
+
+a {
+	display:block;
+
+}

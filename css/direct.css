@@ -4,9 +4,20 @@ body {
 
 .btn {
 	color:black;
+	margin-top: 40px;
 }
 
 .title2 {
 	color:white;
 	font-family:"ColonnaMT";
 }
+
+a {
+	display:block;
+}
+
+.btns {
+	position:relative;
+	top:15vh;
+}
+
