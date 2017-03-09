@@ -1,0 +1,24 @@
+body {
+	background-color: black;
+}
+
+.noctis {
+	font-family: "consolas";
+	color: white;
+	font-size: 20px;
+	margin-left: 440px;
+}
+
+.img {
+	max-width: 20%;
+	margin-left: 580px;
+}
+
+.iamisigo {
+	margin-left: 440px;
+}
+.videoname{
+	font-family: "consolas";
+	color: white;
+	font-size: 20px;
+}

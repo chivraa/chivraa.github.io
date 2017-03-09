@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+.btn {
+	position:relative;
+	top:15vh;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.gianni {
+	font-family: "consolas";
+	color: white;
+	font-size: 20px;
+	margin-left: 440px;
+}
+.imgg {
+	max-width: 40%;
+	margin-left: 400px;
+}
+.sophie {
+	font-family: "consolas";
+	color: white;
+	font-size: 20px;
+	margin-left: 440px;
+}
+.imgs {
+	max-width: 40%;
+	margin-left: 400px;
+}

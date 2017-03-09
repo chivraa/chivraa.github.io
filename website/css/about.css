@@ -1,0 +1,23 @@
+body {
+	background-color:black;
+}
+
+.about-heading {
+	font-family: "trattatello";
+	color:white;
+	margin-left: 100px;
+	margin-top: 25px;
+	font-size: 75px;
+}
+
+.opening {
+	font-family: "consolas";
+	color:white; 
+	margin-left: 74px;
+}
+
+.subtitle1 {
+	font-family:"consolas";
+	color:white;
+	margin-left:100px;
+}

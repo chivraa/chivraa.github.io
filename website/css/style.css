@@ -1,0 +1,18 @@
+.bg-image {
+	background: url("../img/bg-gif.gif") no-repeat center center fixed; 
+	background-size: cover;
+
+}
+.title {
+	position:relative;
+	top: 40vh;
+	font-family:"Trattatello";
+	color:indigo; 
+}
+.link {
+	color:black;
+}
+.title:hover {
+	color:lightslategray;
+	top: 41vh;
+}
